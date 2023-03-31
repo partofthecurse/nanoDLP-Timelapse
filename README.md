@@ -3,3 +3,4 @@ two bashscripts to be fired from nanoDLPS camera tab. one for snapshoting from i
 needs gawk, jq
 needs files from http://vontaene.de/raspbian-updates/
 See tutorial on https://daniel-strohbach.de/diy-camera-timelapse-fuer-nanodlp-und-einer-ip-camera (its in german)
+switched to ffmpeg
